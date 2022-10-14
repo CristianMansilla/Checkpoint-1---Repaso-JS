@@ -77,4 +77,3 @@ console.log(`Todas las tardes de lunes a viernes se conecta con su ${pc} a las c
 console.log(`En IniciaTec desarrolló: ${queAprendiEnIniciatec.proyectos.IniciaFood.descripción}, de nombre IniciaFood. Junto al equipo Rocket-Dev que se componia de: ${queAprendiEnIniciatec.proyectos.IniciaFood.equipo}. Para lograrlo tuvieron que utilizar la metodología SCRUM: ${queAprendiEnIniciatec.metodologias.SCRUM.definicion}.`);
 console.log(`En una entrevista de trabajo le preguntaron si tenia hijos y él respondio: ${tieneHijos}. Luego le preguntaron si tenia hermanos a lo que contestó: ${tieneHermanos}.`);
 console.log(`El domingo pasado fue a jugar al fútbol, le dieron la camiseta ${numeroCamiseta} porque juega de extremo y fue decisivo para la victoria de su equipo con 1 gol y dos asistencias.`);
-
